@@ -1,2 +1,4 @@
-# Pymaceuticals
-HW5 for Georgia Tech Data Analytics
+Homework 5 -
+
+Pymaceuticals
+Eric Roberts
